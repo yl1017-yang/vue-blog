@@ -25,9 +25,7 @@ const routes = [
   },  
   {
     path: "/vue-blog/list",
-    component: {
-      List : List,
-    }
+    component: List,
   },
   {
     path: "/vue-blog/",
